@@ -1,0 +1,15 @@
+.allTheThings {
+  padding-top: 6em;
+}
+
+footer {
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+
+.btn-primary {
+  margin: 1em 0;
+}
